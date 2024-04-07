@@ -1,0 +1,68 @@
+html{
+    background-image: url("./aurora-borealis-in-alaska-royalty-free-image-1650466390.jpg");
+}
+
+h1{
+    color: rgb(243, 194, 80);
+    text-align: center;
+}
+
+.main{
+    color:rgba(255, 255, 255, 0.671);
+    margin: 8px 0
+}
+
+.highlights{
+    color:aqua;
+}
+
+ul{
+    color:rgb(136, 254, 10);
+    margin: 1px 0
+}
+
+iframe{
+    left: 5px;
+    top: 10px;
+    position: relative;
+}
+
+.description{
+    color:beige;
+    top:10;
+    text-align: center;
+    position: relative;
+}
+
+.form-text{
+    color:rgb(195, 177, 177)
+}
+
+.form-label{
+    color: blueviolet;
+    font-size: 25px;
+    position: relative;
+}
+
+.form-control{
+    height: 17px;
+    width: 197px;
+    background-color: rgb(46, 160, 177);
+    border-radius: 2px;
+    border-width: 0.5px;
+    top: -5px;
+    position: relative;
+}
+
+h2{
+    color: rgb(8, 8, 244);
+}
+
+.btn-primary{
+    background-color: rgb(203, 33, 112);
+    border-width: 0.2px;
+}
+
+.unique{
+    text-align: center;
+}
